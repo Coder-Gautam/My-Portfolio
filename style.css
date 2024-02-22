@@ -556,8 +556,8 @@ footer .text span a:hover {
   }
 
   .skills .skills-details {
-    align-items: center;
-    justify-content: center;
+    align-items: flex-start;
+    justify-content: flex-start;
     flex-direction: column;
   }
 
@@ -568,7 +568,7 @@ footer .text span a:hover {
 
   .skills-details .boxes {
     justify-content: flex-start;
-    align-items: center;
+    align-items: flex-start;
     width: 100%;
   }
 
